@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemExIOSVistas", "UdemExIOSVistas\UdemExIOSVistas.csproj", "{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Release|iPhone.Build.0 = Release|iPhone
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BF2DEA3E-6EA5-4A2F-B818-F5E1979D6902}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
